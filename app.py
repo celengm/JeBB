@@ -160,8 +160,8 @@ if __name__ == "__main__":
         
 global client
 client = Client(
-    channelAccessToken = "", 
-    channelSecret = "",
+    channelAccessToken = "VyOdQlBD3CzCz8Ge9EEHLe5TJ1PnjrE00TtZ/MyjIR+eS8R8dhgBbF+Ro1ZHr8oThmBAxpnJeCvV7+esZHLWTGiGZ99LYfI6NAp6FWJPMR5a/wlOxZ+WlUvDaSSJ+ZvWxCZBVyXSAXGQF1Y6ZDD97wdB04t89/1O/w1cDnyilFU=", 
+    channelSecret = "d63c1f98cfe4403b4c85822c222284a4",
     #email = "",
     #password = "",
     authToken = None, 
